@@ -33,7 +33,6 @@
                  [kovacnica/clojure.network.ip "0.1.2"]
                  [threatgrid/clj-momo "0.2.18"]
 
-                 [edn-ld "0.2.2"]
                  ;; dependency overrides
 
                  ;; test.chuck uses an old instaparse
